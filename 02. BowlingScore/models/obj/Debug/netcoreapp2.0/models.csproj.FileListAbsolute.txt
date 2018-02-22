@@ -1,0 +1,10 @@
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/bin/Debug/netcoreapp2.0/models.deps.json
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/bin/Debug/netcoreapp2.0/models.runtimeconfig.json
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/bin/Debug/netcoreapp2.0/models.runtimeconfig.dev.json
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/bin/Debug/netcoreapp2.0/models.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/bin/Debug/netcoreapp2.0/models.pdb
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/obj/Debug/netcoreapp2.0/models.csproj.CoreCompileInputs.cache
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/obj/Debug/netcoreapp2.0/models.AssemblyInfoInputs.cache
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/obj/Debug/netcoreapp2.0/models.AssemblyInfo.cs
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/obj/Debug/netcoreapp2.0/models.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/models/obj/Debug/netcoreapp2.0/models.pdb

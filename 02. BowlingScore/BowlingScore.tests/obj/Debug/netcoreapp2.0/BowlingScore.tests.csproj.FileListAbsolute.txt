@@ -1,0 +1,15 @@
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/BowlingScore.tests.deps.json
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/BowlingScore.tests.runtimeconfig.json
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/BowlingScore.tests.runtimeconfig.dev.json
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/BowlingScore.tests.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/BowlingScore.tests.pdb
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/models.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/bin/Debug/netcoreapp2.0/models.pdb
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/obj/Debug/netcoreapp2.0/BowlingScore.tests.csproj.CoreCompileInputs.cache
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/obj/Debug/netcoreapp2.0/BowlingScore.tests.AssemblyInfoInputs.cache
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/obj/Debug/netcoreapp2.0/BowlingScore.tests.AssemblyInfo.cs
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/obj/Debug/netcoreapp2.0/BowlingScore.tests.dll
+/Users/javiermontagna/Documents/TDD/02.BowlingScore/BowlingScore.tests/obj/Debug/netcoreapp2.0/BowlingScore.tests.pdb

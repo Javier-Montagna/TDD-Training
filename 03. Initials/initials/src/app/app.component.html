@@ -1,0 +1,8 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <input type="text" id="empName" name="empName" (input)="onTextChanged($event.target.value)" [(value)]="_employeeName" />
+  <label id="empInitials">{{_employeeInitials}}</label>
+</div>
