@@ -1,0 +1,8 @@
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/bin/Debug/netstandard2.0/MyStack.Library.deps.json
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/bin/Debug/netstandard2.0/MyStack.Library.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/bin/Debug/netstandard2.0/MyStack.Library.pdb
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/obj/Debug/netstandard2.0/MyStack.Library.csproj.CoreCompileInputs.cache
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/obj/Debug/netstandard2.0/MyStack.Library.AssemblyInfoInputs.cache
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/obj/Debug/netstandard2.0/MyStack.Library.AssemblyInfo.cs
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/obj/Debug/netstandard2.0/MyStack.Library.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Library/obj/Debug/netstandard2.0/MyStack.Library.pdb

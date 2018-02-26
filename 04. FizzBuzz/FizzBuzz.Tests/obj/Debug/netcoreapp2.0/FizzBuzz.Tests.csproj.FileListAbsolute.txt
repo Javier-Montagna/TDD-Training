@@ -1,0 +1,15 @@
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Tests.deps.json
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Tests.runtimeconfig.json
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Tests.runtimeconfig.dev.json
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Tests.dll
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Tests.pdb
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Library.dll
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp2.0/FizzBuzz.Library.pdb
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp2.0/FizzBuzz.Tests.csproj.CoreCompileInputs.cache
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp2.0/FizzBuzz.Tests.AssemblyInfoInputs.cache
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp2.0/FizzBuzz.Tests.AssemblyInfo.cs
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp2.0/FizzBuzz.Tests.dll
+/Users/javiermontagna/Documents/TDD-Training/04. FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp2.0/FizzBuzz.Tests.pdb

@@ -1,0 +1,15 @@
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Tests.deps.json
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Tests.runtimeconfig.json
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Tests.runtimeconfig.dev.json
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Tests.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Tests.pdb
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Library.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/bin/Debug/netcoreapp2.0/MyStack.Library.pdb
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/obj/Debug/netcoreapp2.0/MyStack.Tests.csproj.CoreCompileInputs.cache
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/obj/Debug/netcoreapp2.0/MyStack.Tests.AssemblyInfoInputs.cache
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/obj/Debug/netcoreapp2.0/MyStack.Tests.AssemblyInfo.cs
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/obj/Debug/netcoreapp2.0/MyStack.Tests.dll
+/Users/javiermontagna/Documents/TDD-Training/05. MyStack/MyStack.Tests/obj/Debug/netcoreapp2.0/MyStack.Tests.pdb
